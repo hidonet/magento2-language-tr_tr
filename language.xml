@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ *
+ * Translated by Hidayet Ok - hidonet@gmail.com
+ *
+ * Çeviren : Hidayet Ok - hidonet@gmail.com
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>tr_TR</code>
+    <vendor>hidonet</vendor>
+    <package>tr_TR</package>
+</language>
