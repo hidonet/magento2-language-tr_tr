@@ -1,6 +1,6 @@
 {
-    "name": "splendidinternet/mage2-locale-de-de",
-    "description": "German (Germany) language",
+    "name": "hidonet/magento2-language-tr_tr",
+    "description": "Magento2 Turkish Locale Package / Magento2 Türkçe Dil Paketi",
     "license": [
         "OSL-3.0"
     ],
