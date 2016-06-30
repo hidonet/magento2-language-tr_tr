@@ -26,4 +26,4 @@ php bin/magento setup:static-content:deploy de_DE
 
 # Hata bildirimi
 
-Gördüğünüz tercüme hatalarını hidonet@gmail.com'a iletebilirsiniz.
+Gördüğünüz tercüme hatalarını hidonet@gmail.com'a iletebilirsiniz...
