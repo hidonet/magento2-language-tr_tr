@@ -3,6 +3,7 @@
 Magento2 için Türkçe Dil Paketi
 
 Magento2 içinde standart olarak gelen tüm tercüme dosyaları derlenmiş ve bu paket oluşturulmuştur.
+<img src="https://i.snag.gy/DUwmVy.jpg">
 
 # Kurulum
  - Tüm dosyaları `/app/i18n/hidonet/tr_TR/` klasörüne kopyalayın
