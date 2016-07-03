@@ -35,7 +35,6 @@ Gördüğünüz tercüme hatalarını hidonet@gmail.com'a iletebilirsiniz...
 Magento2 Turkish Translation
 
 We've combined all English translation files and translated to Turkish
-<img src="https://i.snag.gy/DUwmVy.jpg">
 
 # Installation
  - Copy all files to `/app/i18n/hidonet/tr_TR/` directory
@@ -62,7 +61,7 @@ php bin/magento setup:static-content:deploy tr_TR
 Please send errors to hidonet@gmail.com...
 
 ------------------------------------------------------------------
-Ekran Görüntüleri / Screenshots
+# Ekran Görüntüleri / Screenshots
 <img src="http://grinet.com.tr/images/magento2_tr_tr/urun_detay_uzun.png">
 <img src="http://grinet.com.tr/images/magento2_tr_tr/siparisler.jpg">
 <img src="http://grinet.com.tr/images/magento2_tr_tr/ayarlar_katalog.png">
