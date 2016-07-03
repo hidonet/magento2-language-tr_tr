@@ -21,7 +21,7 @@ php bin/magento setup:di:compile
 ```bash
 composer require hidonet/magento2-language-tr_tr
 rm pub/static/frontend/Magento/luma/de_DE/js-translation.json
-php bin/magento setup:static-content:deploy de_DE
+php bin/magento setup:static-content:deploy tr_TR
 ```
 
 # Hata bildirimi
