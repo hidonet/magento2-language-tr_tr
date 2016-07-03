@@ -3,7 +3,6 @@
 Magento2 için Türkçe Dil Paketi
 
 Magento2 içinde standart olarak gelen tüm tercüme dosyaları derlenmiş ve bu paket oluşturulmuştur.
-<img src="https://i.snag.gy/DUwmVy.jpg">
 
 # Kurulum
  - Tüm dosyaları `/app/i18n/hidonet/tr_TR/` klasörüne kopyalayın
@@ -61,3 +60,10 @@ php bin/magento setup:static-content:deploy tr_TR
 # Error reporting
 
 Please send errors to hidonet@gmail.com...
+
+------------------------------------------------------------------
+Ekran Görüntüleri / Screenshots
+<img src="http://grinet.com.tr/images/magento2_tr_tr/urun_detay_uzun.png">
+<img src="http://grinet.com.tr/images/magento2_tr_tr/siparisler.jpg">
+<img src="http://grinet.com.tr/images/magento2_tr_tr/ayarlar_katalog.png">
+<img src="http://grinet.com.tr/images/magento2_tr_tr/raporlar_menu.png">
