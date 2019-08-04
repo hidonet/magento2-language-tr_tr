@@ -15657,175 +15657,128 @@ Product,Ürün,Magento_Widget
 Conditions,Durumlar,Magento_Widget
 Cancel,İptal,Magento_Widget
 "Inserting a widget does not create a widget instance.","Kutucuk eklemek yeni bir kutu örneği oluşturmaz.",Magento_Widget
-Back,"Geri"" ""Product""",Magento_Wishlist
-Delete,"Sil"" ""Add to Compare""",Magento_Wishlist
-"Details""""","Detayları Göster"" ""Options Details""",Magento_Wishlist
-"Wish List","Wish List"" ""Message""",Magento_Wishlist
-"Wish List""""","Update Wish List"" ""View Product""",Magento_Wishlist
-"now.""""","Wish List is empty now."" ""Email addresses",Magento_Wishlist
-"wish list.""""","You have no items in your wish list."" ""Are you sure you want to remove this product from your wishlist?""",Magento_Wishlist
-"Sender""""","Email Göndericisi"" ""General Options""",Magento_Wishlist
-"Details and Comment""""","Ürün Detayları ve Yorum",Magento_Wishlist
-Product,Ürün,Magento_Wishlist
-Quantity,Adet,Magento_Wishlist
-Configure,Ayarla,Magento_Wishlist
-"You added %1 to your shopping cart.","%1 sepetinize eklendi.",Magento_Wishlist
-Action,İşlem,Magento_Wishlist
-"Are you sure that you want to remove this item?","Bunu silmek istediğinizden emin misiniz ?",Magento_Wishlist
-Edit,Düzelt,Magento_Wishlist
-"Remove item","Ürünü sil",Magento_Wishlist
-"Add to Cart","Sepete Ekle",Magento_Wishlist
-Enabled,Aktif,Magento_Wishlist
-"We cannot add this item to your shopping cart.","Sepetinize ürün eklemede sorun oluştu.",Magento_Wishlist
-"* Required Fields","* Zorunlu Alan",Magento_Wishlist
-Availability,Varlık,Magento_Wishlist
-"In stock","Stokta var",Magento_Wishlist
-"Out of stock","Stokta Yok",Magento_Wishlist
-"Click for price","Fiyat için tıklayınız",Magento_Wishlist
-"1 item","1 kayıt",Magento_Wishlist
-"%1 items","%1 kayıt",Magento_Wishlist
-"Add to Wishlist","Takip Listesine Ekle",Magento_Wishlist
-"Remove This Item","Bu ürünü sil",Magento_Wishlist
-"Add to Compare","Karşılaştırma Listesine Ekle",Magento_Wishlist
-"The product does not exist.","Ürüne kaydına ulaşılamıyor.",Magento_Wishlist
-"Display item quantities","Toplam ürün adedini göster",Magento_Wishlist
-"View Details","Detayları Göster",Magento_Wishlist
-"Options Details","Seçenek Detayları",Magento_Wishlist
-Comment,Yorum,Magento_Wishlist
-"Add Locale","Yerelleştirme Ekle",Magento_Wishlist
-"Add Date","Tarih Ekle",Magento_Wishlist
-"Days in Wish List","Takip Listesinde Kalma Süresi",Magento_Wishlist
-Wishlist,"Takip Listesi",Magento_Wishlist
+Wish List,Takip Listesi,Magento_Wishlist
+Wish List Sharing,Takip Listesi Paylaşımı,Magento_Wishlist
+My Wish List,Takip Listem,Magento_Wishlist
+%1's Wish List,%1' Takip Listesi,Magento_Wishlist
+Page not found.,Sayfa Bulunamadı.,Magento_Wishlist
+We can't specify a product.,Bir ürün belirtemiyoruz.,Magento_Wishlist
+We can't add the item to Wish List right now: %1.,Şu an için ürünü Takip Listesine ekleyemiyoruz: %1.,Magento_Wishlist
+We can't add the item to Wish List right now.,Ürünü şu anda Takip Listesine ekleyemiyoruz.,Magento_Wishlist
+You added %1 to your shopping cart.,%1 sepetinize eklendi.,Magento_Wishlist
+This product(s) is out of stock.,Ürün stokta yok.,Magento_Wishlist
+We can't add the item to the cart right now.,Ürünü şu anda sepete ekleyemiyoruz.,Magento_Wishlist
+We can't load the Wish List item right now.,Şu anda Takip Listesi öğesini yükleyemiyor.,Magento_Wishlist
+We can't configure the product right now.,Şu anda ürünü yapılandıramazsınız.,Magento_Wishlist
+The requested cart item doesn't exist.,İstenen ürün yok.,Magento_Wishlist
+%1 has been moved to your wish list.,%1 takip listenize taşındı.,Magento_Wishlist
+We can't move the item to the wish list.,Biz takip listesine öğe taşıyamazsınız.,Magento_Wishlist
+We can't delete the item from Wish List right now because of an error: %1.,Biz bir hata nedeniyle şu anda Takip Listesi'nden öğeyi silemezsiniz:%1.,Magento_Wishlist
+We can't delete the item from the Wish List right now.,Şu anda Takip Listesi'nden öğeyi silemez.,Magento_Wishlist
+Message length must not exceed %1 symbols,Mesaj uzunluğu %1 sembolleri aşmamalıdır,Magento_Wishlist
+Please enter an email address.,Lütfen bir e-posta adresi giriniz.,Magento_Wishlist
+This wish list can be shared %1 more times.,Bu dilek listesi %1 daha fazla kez paylaşılabilir.,Magento_Wishlist
+Please enter a valid email address.,Geçerli bir e.,Magento_Wishlist
+Your wish list has been shared.,Sizin dilek listesi paylaşıldı.,Magento_Wishlist
+We can't delete item from Wish List right now.,Şu anda Takip Listesi'nden ürünü silemiyoruz.,Magento_Wishlist
+Can't save description %1,description %1 kaydedilemiyor,Magento_Wishlist
+Can't update wish list,dilek listesini güncellemek olamaz,Magento_Wishlist
+%1 has been updated in your Wish List., %1 Takip Listesi'nde güncellendi.,Magento_Wishlist
+We can't update your Wish List right now.,Biz şu anda Takip Listesini güncelleyemiyoruz.,Magento_Wishlist
+The requested Wish List doesn't exist.,Talep edilen Listem yok.,Magento_Wishlist
+We can't create the Wish List right now.,Şu anda Takip Listesini oluşturamazsınız.,Magento_Wishlist
+%1 items, %1 ürün,Magento_Wishlist
+1 item,1 kayıt,Magento_Wishlist
+Comment,Yorum Yap,Magento_Wishlist
+Display number of items in wish list,Takip listesindeki ürün sayısını göster,Magento_Wishlist
+Display item quantities,Ekran öğesi miktarları,Magento_Wishlist
+An item option with code %1 already exists.,%1 kodu ile bir öğe seçeneği zaten var.,Magento_Wishlist
+We can't specify a wish list.,Takip listesi belirleyemiyoruz.,Magento_Wishlist
+Cannot specify product.,Ürünü belirtilemiyor.,Magento_Wishlist
+Product is not salable.,Ürün satılabilir değil.,Magento_Wishlist
+Invalid item option format.,Geçersiz öğe seçenek biçimi.,Magento_Wishlist
+"%1 for ""%2"".",""" %2"" için %1.",Magento_Wishlist
+We can't add this item to your shopping cart right now.,Şu anda alışveriş sepetinize bu ürünü ekleyemezsiniz.,Magento_Wishlist
+We couldn't add the following product(s) to the shopping cart: %1.,Bu ürünleri sepete ekleyemiyoruz : %1.,Magento_Wishlist
+We can't update the Wish List right now.,Şu anda Takip Listenizi güncelleyemiyoruz.,Magento_Wishlist
+%1 product(s) have been added to shopping cart: %2., %1 ürün sepetinize eklendi : %2.,Magento_Wishlist
+Comment:,Yorum:,Magento_Wishlist
+We cannot retrieve the Wish List.,Takip listesi verisi okunamadı.,Magento_Wishlist
+%1's Wishlist, %1'in Takip Listesi,Magento_Wishlist
+We can't specify a wish list item.,Bir takip listesi öğesi belirleyemiyoruz.,Magento_Wishlist
+The product does not exist.,Ürün mevcut değil.,Magento_Wishlist
+Test Phrase,Test İfadesi,Magento_Wishlist
+message,mesaj,Magento_Wishlist
 Message,Mesaj,Magento_Wishlist
-"Email Template","Email Şablonu",Magento_Wishlist
-"Sharing Information","Paylaşım Bilgisi",Magento_Wishlist
-"This product(s) is out of stock.","Bu ürün stokta yok.",Magento_Wishlist
-"An item option with code %1 already exists.","%1 koduyla bir ürün seçeneği zaten var.",Magento_Wishlist
-"Product(s) %1 have required options. Each product can only be added individually.","%1 için seçim yapmanız gereken seçenekler var. Her ürün tekil olarak eklenmelidir.",Magento_Wishlist
-"%1 product(s) have been added to shopping cart: %2.","%1 sepetinize eklendi : %2.",Magento_Wishlist
-"Please input a valid email address.","Lütfen geçerli bir e-mail adresi giriniz.",Magento_Wishlist
-"RSS Feed","RSS Veri Akışı",Magento_Wishlist
-"Wish List Sharing","Takip Listesi Paylaşımı",Magento_Wishlist
-"My Wish List","Takip Listem",Magento_Wishlist
-"%1 for """"%2"""".","%1 için ""%2"".",Magento_Wishlist
-"Wish List could not be created.","Takip listesi oluşturulamadı.",Magento_Wishlist
-"%1 has been added to your wishlist. Click <a href=""""%2"""">here</a> to continue shopping.","%1 takip listenize eklendi. Alışverişe devam etmek için <a href=""%2"">buraya</a> tıklayınız.",Magento_Wishlist
-"An error occurred while adding item to wish list: %1","Takip listesine ürün eklenirken bir sorun oluştu : %1",Magento_Wishlist
-"An error occurred while adding item to wish list.","Takip listenize ürün eklenirken bir sorun oluştu.",Magento_Wishlist
-"%1 has been updated in your wish list.","Takip listenizdeki %1 güncellendi.",Magento_Wishlist
-"An error occurred while updating wish list.","Takip listesi güncellenirken sorun oluştu.",Magento_Wishlist
-"An error occurred while deleting the item from wish list: %1","Ürün takip listesinden silinirken bir sorun oluştu : %1",Magento_Wishlist
-"An error occurred while deleting the item from wish list.","Takip listenizden ürün silinirken bir sorun oluştu.",Magento_Wishlist
-"Cannot add item to shopping cart","Sepete ürün eklenemiyor",Magento_Wishlist
-"%1 has been moved to wish list %2","%1 takip listenize taşındı %2",Magento_Wishlist
-"Message length must not exceed %1 symbols","Mesaj uzunluğu %1 karakterden fazla olamaz",Magento_Wishlist
-"This wishlist can be shared %1 more times.","Takip listesi %1 defa daha paylaşılabilir.",Magento_Wishlist
-"Your wish list has been shared.","Takip listeniz paylaşıldı.",Magento_Wishlist
-"Please enter your comments.","Lütfen yorumlarınızı giriniz.",Magento_Wishlist
-"Display number of items in wish list","Takip listesindeki ürün sayısını göster",Magento_Wishlist
-"Cannot specify product.","Ürün seçilmedi.",Magento_Wishlist
-"Invalid item option format.","Hatalı ürün seçeneği biçimi.",Magento_Wishlist
-"Share Wish List","Takip Listesi Paylaş",Magento_Wishlist
-"Add All to Cart","Hepsini Sepete Ekle",Magento_Wishlist
-"Update Wish List","Takip Listesini Güncelle",Magento_Wishlist
-"View Product","Ürünü Göster",Magento_Wishlist
-"This Wish List has no Items","Bu takip listesinde ürün yok",Magento_Wishlist
-"Wish List is empty now.","Takip listesi boş.",Magento_Wishlist
-"Email addresses, separated by commas","Email adresleri (virgülle ayırınız)",Magento_Wishlist
-"Check this checkbox if you want to add a link to an rss feed to your wishlist.","Takip listenize bir RSS akışı eklemek için bu kutuyu işaretleyin.",Magento_Wishlist
-"Share Wishlist","Takip Listesi Paylaş",Magento_Wishlist
-"Last Added Items","Son Eklenenler",Magento_Wishlist
-"Go to Wish List","Takip Listesine Git",Magento_Wishlist
-"You have no items in your wish list.","Takip listenizde ürün yok.",Magento_Wishlist
-"Are you sure you want to remove this product from your wishlist?","Bu ürünü takip listenizden silmek istediğinizden emin misiniz ?",Magento_Wishlist
-"Email Sender","Email Göndericisi",Magento_Wishlist
-"General Options","Genel Ayarlar",Magento_Wishlist
-"Share Options","Paylaşım Seçenekleri",Magento_Wishlist
-"Max Emails Allowed to be Sent","E-mail Gönderimi İçin Limit",Magento_Wishlist
-"Email Text Length Limit","E-mail Mesajı Uzunlul Limiti",Magento_Wishlist
-"My Wish List Link","Takip Listem Bağlantısı",Magento_Wishlist
-"Display Wish List Summary","Takip Listesi Özeti Göster",Magento_Wishlist
-"No Items Found","Ürün bulunamadı",Magento_Wishlist
-"User description","Kullanıcı açıklaması",Magento_Wishlist
-"Product Details and Comment","Ürün Detayları ve Yorum",Magento_Wishlist
-"Product Name","Ürün Adı",Magento_Wishlist
-"10 by default. Max - 10000","Varsayılan : 10, En fazla izin verilen : 10000",Magento_Wishlist
-"255 by default","Varsayılan : 255 ",Magento_Wishlist
-"%1 has been moved to your wish list.","%1 takip listenize taşındı.",Magento_Wishlist
-"Details""","Detayları Göster"" ""Options Details""",Magento_Wishlist
-"format.""","Hatalı ürün seçeneği biçimi."" ""We can't specify a wish list item.""",Magento_Wishlist
-"Wish List""","Update Wish List"" ""View Product""",Magento_Wishlist
-"now.""","Wish List is empty now."" ""Email addresses",Magento_Wishlist
-"wish list.""","You have no items in your wish list."" ""Are you sure you want to remove this product from your wishlist?""",Magento_Wishlist
-"Sender""","Email Göndericisi"" ""General Options""",Magento_Wishlist
-"Details and Comment""","Ürün Detayları ve Yorum",Magento_Wishlist
-"What's this?","Bu nedir ?",Magento_Wishlist
-"%1's Wish List","%1's Takip Listesi",Magento_Wishlist
-"%1 for ""%2"".","%1 için ""%2"".",Magento_Wishlist
-"We couldn't add the following product(s) to the shopping cart: %1.","Ürün(ler) sepetinize eklenemedi : %1.",Magento_Wishlist
-"We can't update wish list.","Takip listesi güncellenemedi.",Magento_Wishlist
-"The requested wish list doesn't exist.","Ulaşmaya çalıştığınız takip listesi bulunamadı.",Magento_Wishlist
-"We can't specify a product.","Ürün belirlenemedi.",Magento_Wishlist
-"%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.","%1 takip listenize eklendi. Alışverişe devam etmek için <a href=""%2"">buraya</a> tıklayınız.",Magento_Wishlist
-"We can't load the wish list item.","Takip listesi ürünü yüklenemedi.",Magento_Wishlist
-"We can't configure the product.","Ürün güncellenemedi.",Magento_Wishlist
-"Can't delete item from wishlist","Ürün,  takip listesinden silinemedi",Magento_Wishlist
-"Can't save description %1","Açıklama kaydedilemedi %1",Magento_Wishlist
-"Can't update wish list","Takip listesi güncellenemedi",Magento_Wishlist
-"The requested cart item doesn't exist.","Ulaşmaya çalıştığınız sepet satırı ( ürün ) bulunamadı.",Magento_Wishlist
-"We can't move the item to the wish list.","Ürün takip listesine taşınamıyor.",Magento_Wishlist
-"Email address can't be empty.","Email adresi boş olamaz.",Magento_Wishlist
-"We can't specify a wish list.","Takip listesi belirlenemedi.",Magento_Wishlist
-"We can't specify a wish list item.","Takip listesi ürünü belirlenemedi.",Magento_Wishlist
-"RSS link to %1's wishlist","%1 adlı kişiye ait takip listesinin RSS bağlantısı",Magento_Wishlist
-"Email addresses","separated by commas",Magento_Wishlist
-"Page not found.","Sayfa bulunamadı.",Magento_Wishlist
-"We can't add the item to Wish List right now: %1.","Şu an için ürünü Takip Listesine ekleyemiyoruz : %1.",Magento_Wishlist
-"We can't add the item to Wish List right now.","Öğeyi şu anda Takip Listesine ekleyemiyoruz.",Magento_Wishlist
-"We can't add the item to the cart right now.","Şu an sepete ürün eklenemiyor.",Magento_Wishlist
-"We can't load the Wish List item right now.","Takip Listesi öğesini şu anda yükleyemiyoruz.",Magento_Wishlist
-"We can't configure the product right now.","Ürünü şu anda yapılandıramıyoruz.",Magento_Wishlist
-"We can't delete the item from Wish List right now because of an error: %1.","Şu anda bir hata nedeniyle ürünü Takip Listesinden silemiyoruz: %1.",Magento_Wishlist
-"We can't delete the item from the Wish List right now.","Şu an için bu ürünü Takip Listesinden silemiyoruz.",Magento_Wishlist
-"Please enter an email address.","Lütfen bir e-mail adresi giriniz.",Magento_Wishlist
-"This wish list can be shared %1 more times.","Takip listesi %1 defa daha paylaşılabilir.",Magento_Wishlist
-"Please enter a valid email address.","Lütfen geçerli bir e-mail adresi giriniz.",Magento_Wishlist
-"We can't delete item from Wish List right now.","Şu anda Takip Listesinden bir ürünü silemiyoruz.",Magento_Wishlist
-"We can't update your Wish List right now.","Takip Listenizi şu anda güncelleyemiyoruz.",Magento_Wishlist
-"We can't create the Wish List right now.","Şu an Takip Listesi oluşturamıyoruz.",Magento_Wishlist
-"Product is not salable.","Ürün satılabilir durumda değil.",Magento_Wishlist
-"We can't add this item to your shopping cart right now.","Bu ürünü şu anda alışveriş sepetinize ekleyemiyoruz.",Magento_Wishlist
-"We can't update the Wish List right now.","Takip Listenizi güncellemede bir sorun yaşıyoruz.",Magento_Wishlist
-Comment:,"Yorum :",Magento_Wishlist
-"We cannot retrieve the Wish List.","Takip listesi verisi yüklenemedi.",Magento_Wishlist
-"%1's Wishlist","%1's Takip Listesi",Magento_Wishlist
-"Test Phrase","Test Fazı",Magento_Wishlist
-error-message,error-message,Magento_Wishlist
+error-message,hata mesajı,Magento_Wishlist
 LocalizedException,LocalizedException,Magento_Wishlist
-"Product Exception.","Ürün İstisnası.",Magento_Wishlist
-"Localized Exception.","Yerelleştirilmiş istisna.",Magento_Wishlist
-"Are you sure you want to remove this item?","Silmek istediğinizden emin misiniz ?",Magento_Wishlist
-"Move to Wishlist","Takip Listeme Ekle",Magento_Wishlist
-"Add to Wish List","Takip Listesine Ekle",Magento_Wishlist
+Product Exception.,Ürün İstisnası.,Magento_Wishlist
+Localized Exception.,Lokalize İstisna.,Magento_Wishlist
+Are you sure you want to remove this item?,Bu öğeyi silmek istediğiniz emin misiniz?,Magento_Wishlist
+Share Wish List,Takip Listesini Paylaş,Magento_Wishlist
+Add All to Cart,Hepsini Sepete Ekle,Magento_Wishlist
+Update Wish List,Takip Listesini Güncelle,Magento_Wishlist
+Move to Wishlist,Takip listesine taşı,Magento_Wishlist
+Add to Wish List,Takip listesine ekle,Magento_Wishlist
+View Product,Ürünü göster,Magento_Wishlist
 Qty,Adet,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 Takip Listenize eklendi.",Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Alışverişe devam etmek için <a href=""%1"">buraya</a> tıklayınız.",Magento_Wishlist
-"See Details","Detayları Göster",Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","Bir RSS beslemesini İstek Listenize bağlamak için burayı tıklayın.",Magento_Wishlist
-"Take a look at %customer_name's Wish List","%customer_name adlı müşterinin Takip Listesine gözat",Magento_Wishlist
-"%customer_name wants to share this Wish List from %store_name with you:","Arkadaşınız %customer_name, %store_name sitesindeki Ürün Takip Listesini sizinle paylaşmak istiyor :",Magento_Wishlist
-"Message from %customer_name:","Mesajı Gönderen %customer_name:",Magento_Wishlist
-"View all Wish List items","Tüm Takip Listesi Ürünlerini Göster",Magento_Wishlist
-"Wish List Section","Takip Listesi Bölümü",Magento_Wishlist
-"Email template chosen based on theme fallback when ""Default"" option is selected.","""Varsayılan"" seçildiğinde e-mail teması seçili temadan geri çekilme ( fallback ) tekniğine göre seçilir.",Magento_Wishlist
-"Enable RSS","RSS'i aç",Magento_Wishlist
-"Special Price","Özel fiyat",Magento_Wishlist
-"Regular Price","Normal Fiyat",Magento_Wishlist
-"The Wish List item can't load at this time. Please try again later.","Takip listesi ürünü yüklenemedi. Lütfen daha sonra tekrar deneyiniz.",Magento_Wishlist
-"The cart item doesn't exist.","Sepet satırı bulunamadı.",Magento_Wishlist
-"You must login or register to add items to your wishlist.","Takip listenize ürün eklemek için üye olmalı ya da üyeyseniz giriş yapmalısınız. ",Magento_Wishlist
-"%1 has been removed from your Wish List.","%1 Takip Listenizden çıkarıldı.",Magento_Wishlist
-"Show in Sidebar","Kenar Çubuğunda Göster",Magento_Wishlist
+Add to Cart,Sepete ekle,Magento_Wishlist
+Availability,Ürün Stok Durumu,Magento_Wishlist
+In stock,Stokta var,Magento_Wishlist
+Out of stock,Stokta yok,Magento_Wishlist
+Edit,Düzenle,Magento_Wishlist
+Remove Item,Öğeyi sil,Magento_Wishlist
+Remove item,Öğeyi sil,Magento_Wishlist
+Add to Compare,Karşılaştırma listesine ekle,Magento_Wishlist
+This Wish List has no Items,Takip listesinde ürün yok,Magento_Wishlist
+%1 has been added to your Wish List., %1 Takip Listenize eklendi.,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Alışverişe devam etmek için <a href=""%1""> buraya tıklayınız </a>.",Magento_Wishlist
+See Details,Ayrıntıları Göster,Magento_Wishlist
+Options Details,Seçenek Detayları,Magento_Wishlist
+RSS link to %1's wishlist, %1'in Takip Listesi RSS Akışı,Magento_Wishlist
+RSS Feed,RSS Akışı,Magento_Wishlist
+Product,Ürün,Magento_Wishlist
+Back,Geri,Magento_Wishlist
+Wish List is empty now.,Takip Listesi artık boş.,Magento_Wishlist
+* Required Fields,* Zorunlu Alanlar,Magento_Wishlist
+Sharing Information,Bilgi Paylaşımı,Magento_Wishlist
+"Email addresses, separated by commas","E-posta adresleri ( virgülle ayırınız )",Magento_Wishlist
+Check here to link an RSS feed to your Wish List.,Takip Listenize bir RSS beslemesi bağlamak için buraya bakın.,Magento_Wishlist
+Last Added Items,Son Eklenen Ürünler,Magento_Wishlist
+Remove This Item,Bu ürünü sil,Magento_Wishlist
+Go to Wish List,Takip Listesine Git,Magento_Wishlist
+You have no items in your wish list.,Takip Listenizde ürün yok.,Magento_Wishlist
+Take a look at %customer_name's Wish List, %CUSTOMER_NAME adlı müşterimizin Takip Listesine bir göz atın,Magento_Wishlist
+%customer_name wants to share this Wish List from %store_name with you:, %customer_name Sizinle %store_name bu Takip Listesini paylaşmak istiyor:,Magento_Wishlist
+Message from %customer_name:, %customer_name mesaj:,Magento_Wishlist
+View all Wish List items,Tüm Takip Listesi öğeleri göster,Magento_Wishlist
+Wish List Section,Takip Listesi Bölümü,Magento_Wishlist
+Share Options,Paylaşım Seçenekleri,Magento_Wishlist
+Email Sender,E-mail Gönderici,Magento_Wishlist
+Email Template,E-mail şablonu,Magento_Wishlist
+"Email template chosen based on theme fallback when ""Default"" option is selected.","""Varsayılan"" seçeneği seçildiğinde e-posta şablonu mevcut tema içerisinden okunacaktır.",Magento_Wishlist
+Max Emails Allowed to be Sent,İzin Verilen En Fazla Mail Gönderimi,Magento_Wishlist
+10 by default. Max - 10000,Varsayılan olarak 10. Max - 10000,Magento_Wishlist
+Email Text Length Limit,E-posta Metni Uzunluğu Sınırı,Magento_Wishlist
+255 by default,Varsayılan olarak 255,Magento_Wishlist
+General Options,Genel Seçenekler,Magento_Wishlist
+Enabled,Etkin,Magento_Wishlist
+My Wish List Link,Takip Listem Bağlantısı,Magento_Wishlist
+Display Wish List Summary,Takip Listesi Özetini Göster,Magento_Wishlist
+Enable RSS,RSS etkinleştirme,Magento_Wishlist
+No Items Found,Hiç bir öğe bulunamadı,Magento_Wishlist
+Product Name,Ürün adı,Magento_Wishlist
+User Description,Kullanıcı açıklaması,Magento_Wishlist
+Quantity,Adet,Magento_Wishlist
+Add Locale,Yerel Ayar ekle,Magento_Wishlist
+Add Date,Tarih ekle,Magento_Wishlist
+Days in Wish List,Takip Listesi Günleri,Magento_Wishlist
+Action,İşlem,Magento_Wishlist
+Configure,Yapılandır,Magento_Wishlist
+Delete,Sil,Magento_Wishlist
+Product Details and Comment,Ürün Detayları ve Yorum,Magento_Wishlist
+You must login or register to add items to your wishlist.,Takip Listenize ürün ekleyebilmek için giriş yapınız, üye değilseniz üye olunuz.,Magento_Wishlist
+Show in Sidebar,Kenar Çubuğunda Göster,Magento_Wishlist
 "Missing key ""model"" in Wishlist Item value data","Takip listesi satır değerleri dizisinde ""model"" verisi bulunamadı",Magento_WishlistGraphQl
 "Missing key ""model"" in Wishlist value data","Takip listesi değerleri dizisinde ""model"" verisi bulunamadı",Magento_WishlistGraphQl
 "The current user cannot perform operations on wishlist","Mevcut kullanıcı takip listesinde işlem yapamaz",Magento_WishlistGraphQl
